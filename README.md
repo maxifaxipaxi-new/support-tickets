@@ -1,2 +1,2 @@
-# support-tickets
-Discord Support Ticket Bot - Translations
+# Support Tickets - TRANSLATIONS
+Feel free to constribute!
